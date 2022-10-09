@@ -10,7 +10,7 @@ import flixel.util.FlxTimer;
 using StringTools;
 
 /**
- * Loosley based on FlxTypeText lolol
+ * Loosley based on FlxTypeText lolols
  */
 class Alphabet extends FlxSpriteGroup
 {
