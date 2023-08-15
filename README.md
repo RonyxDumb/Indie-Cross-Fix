@@ -7,7 +7,7 @@
 FNF: Indie Cross is a massive community collaboration with the goal of bringing together an ultimate rhythm gaming experience
 
 # Indie Cross Fix?
-This repository contains the source code of Indie Cross where errors have been removed.
+This repository contains the source Indie Cross source code where errors have been removed.
 The developers left some material in the code that isn't in the source code.
 
 # Credits
