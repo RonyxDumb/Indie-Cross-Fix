@@ -57,10 +57,10 @@
 	<haxelib name="flixel-addons" />
 	<haxelib name="flixel-ui" />
 	<haxelib name="discord_rpc" if="cpp"/>
- <haxelib name="tentools" />
+        <haxelib name="tentools" />
 	<haxelib name="linc_luajit" if="cpp"/>
 	<haxelib name="systools" if="cpp"/>
- <ndll name="systools" haxelib="systools" if="cpp" />
+        <ndll name="systools" haxelib="systools" if="cpp" />
 
 	<!-- ______________________________ Haxedefines _____________________________ -->
 
